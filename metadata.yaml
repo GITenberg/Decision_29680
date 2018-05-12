@@ -1,0 +1,35 @@
+_repo: Decision_29680
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, H. R.
+    gutenberg_agent_id: '34077'
+    url: http://www.gutenberg.org/2009/agents/34077
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Frank M.
+    alias: Robinson, Frank Malcolm
+    birthdate: 1926
+    deathdate: 2014
+    gutenberg_agent_id: '34076'
+    url: http://www.gutenberg.org/2009/agents/34076
+    wikipedia: http://en.wikipedia.org/wiki/Frank_M._Robinson
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Decision
+url: http://www.gutenberg.org/ebooks/29680
